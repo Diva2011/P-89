@@ -1,0 +1,39 @@
+body
+{
+    background-image: url("math-background.jpg");
+    margin-top:0;
+    margin-bottom:0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+	.login_div1
+	{
+		font-style: italic;
+		background: white;
+		font-family: script;
+		font-weight: bolder;
+		font-size: 500;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+
+#player1_login , #player2_login
+{
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 15px;
+}
+
+#login_button
+{
+	background: aqua;
+	padding: 20px;
+	font-style: italic;
+	font-family: script;
+	font-weight: bolder;
+}
+
