@@ -1,6 +1,8 @@
 body
 {
     background-image: url("math-background.jpg");
+	background-size: cover;
+	background-position:center;
     margin-top:0;
     margin-bottom:0;
     margin-left: auto;
@@ -9,6 +11,7 @@ body
 
 	.login_div1
 	{
+		margin-top: 80px;
 		font-style: italic;
 		background: white;
 		font-family: script;
@@ -28,12 +31,13 @@ body
 	margin-right: 15px;
 }
 
-#login_button
-{
-	background: aqua;
-	padding: 20px;
-	font-style: italic;
-	font-family: script;
-	font-weight: bolder;
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
 }
+
 
